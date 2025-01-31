@@ -7,7 +7,7 @@ const Header = () => {
   const [isOpen, setOpen] = useState(false);
 
   return (
-    <header className="py-8 bg-bg-[#2B452B]/5">
+    <header className="py-8 bg-[#2B452B]/5">
       <div className="w-[90%] mx-auto lg:flex md:flex justify-between hidden">
         <img src={logo} alt="" className="w-[235px] h-[43px]" />
         <nav>
