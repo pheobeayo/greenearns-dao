@@ -3167,7 +3167,7 @@ graphemer@^1.4.0:
     "@web3modal/ethers" "^5.0.3"
     ethers "^6.13.1"
     framer-motion "^11.3.17"
-    greenearns "file:../../../Library/Caches/Yarn/v6/npm-greenearns-0.0.0-7acf9673-0198-4587-b97f-a2b7ec8cf5d4-1738691295782/node_modules/greenearns"
+    greenearns "file:."
     hamburger-react "^2.5.1"
     react "^18.2.0"
     react-chat-elements "^12.0.17"
@@ -3591,9 +3591,9 @@ jiti@^1.21.0:
   integrity sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ==
 
 js-yaml@^4.1.0:
-  version "4.1.0"
-  resolved "https://registry.npmjs.org/js-yaml/-/js-yaml-4.1.0.tgz"
-  integrity sha512-wpxZs9NoxZaJESJGIZTyDEaYpl0FKSA+FB9aJiyemKhMwkxQg63h4T1KJgUGHpTqPDNRcmmYLugrRjJlBtWvRA==
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-4.1.1.tgz#854c292467705b699476e1a2decc0c8a3458806b"
+  integrity sha512-qQKT4zQxXl8lLwBtHMWwaTcGfFOZviOJet3Oy/xmGk2gZH677CJM9EvtfdSkgWcATZhj/55JZ0rmy3myCT5lsA==
   dependencies:
     argparse "^2.0.1"
 
